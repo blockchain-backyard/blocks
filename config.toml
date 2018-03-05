@@ -1,0 +1,14 @@
+baseURL = "/"
+relativeURLs = true
+languageCode = "en-us"
+title = "Blocks"
+theme = "casper"
+publishDir = "docs"
+
+copyright = "An Endeavour of Blockchain Backyard - All rights reserved - 2018"
+paginate = 5
+
+[params]
+  description = "Blogs on Blockchain"
+  authorwebsite = "http://blockchain-backyard.github.io"
+  cover = "http://blockchain-backyard.github.io/blocks/images/banner.svg"
